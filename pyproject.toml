@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "data-ai-studio"
+version = "0.1.0"
+description = "Local Data Analytics and Machine Learning Studio"
+authors = ["DATA AI STUDIO Team <analyst@dataaistudio.local>"]
+readme = "README.md"
+packages = [{include = "backend"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Flask = ">=2.3.0"
+pandas = ">=1.5.3"
+numpy = ">=1.24.2"
+scikit-learn = ">=1.2.1"
+matplotlib = ">=3.6.3"
+plotly = ">=5.13.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+pytest-cov = "^4.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
