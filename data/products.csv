@@ -1,0 +1,13 @@
+Product_ID,Product,Category,Price,Quantity_Sold,Revenue,Rating
+P001,Laptop Pro 15,Electronics,1200,85,102000,4.8
+P002,Ultra HD Monitor,Electronics,450,140,63000,4.7
+P003,Mechanical Keyboard,Accessories,85,320,27200,4.6
+P004,Wireless Mouse,Accessories,25,650,16250,4.5
+P005,Noise Cancelling Headphones,Electronics,280,190,53200,4.9
+P006,USB-C Dock,Accessories,110,240,26400,4.4
+P007,Ergonomic Chair,Furniture,320,115,36800,4.7
+P008,Standing Desk,Furniture,650,75,48750,4.8
+P009,Desk Lamp LED,Furniture,45,410,18450,4.3
+P010,Webcam 4K,Electronics,130,210,27300,4.5
+P011,Portable SSD 1TB,Accessories,95,380,36100,4.8
+P012,Cable Management Kit,Accessories,20,520,10400,4.2

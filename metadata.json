@@ -1,0 +1,6 @@
+{
+  "name": "DATA AI STUDIO",
+  "description": "Complete local Data Analytics and Visualization Studio powered by local Python, Pandas, NumPy, Scikit-learn, and Plotly with zero external API dependencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

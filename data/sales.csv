@@ -1,0 +1,41 @@
+Date,Product,Category,Region,Quantity,Unit_Price,Sales,Profit
+2024-01-05,Laptop Pro 15,Electronics,North,4,1200,4800,960
+2024-01-08,Wireless Mouse,Accessories,South,15,25,375,150
+2024-01-12,Mechanical Keyboard,Accessories,East,8,85,680,240
+2024-01-15,Ultra HD Monitor,Electronics,West,6,450,2700,540
+2024-01-20,Ergonomic Chair,Furniture,North,3,320,960,192
+2024-01-25,Desk Lamp LED,Furniture,South,12,45,540,162
+2024-02-02,Laptop Pro 15,Electronics,West,5,1200,6000,1200
+2024-02-07,USB-C Dock,Accessories,East,10,110,1100,330
+2024-02-14,Standing Desk,Furniture,North,2,650,1300,260
+2024-02-18,Noise Cancelling Headphones,Electronics,South,7,280,1960,490
+2024-02-24,Wireless Mouse,Accessories,North,20,25,500,200
+2024-03-01,Ultra HD Monitor,Electronics,South,4,450,1800,360
+2024-03-06,Laptop Pro 15,Electronics,East,6,1200,7200,1440
+2024-03-11,Mechanical Keyboard,Accessories,West,12,85,1020,360
+2024-03-18,Ergonomic Chair,Furniture,East,5,320,1600,320
+2024-03-25,Desk Lamp LED,Furniture,West,15,45,675,202
+2024-04-02,Standing Desk,Furniture,South,4,650,2600,520
+2024-04-09,Noise Cancelling Headphones,Electronics,North,9,280,2520,630
+2024-04-16,USB-C Dock,Accessories,North,14,110,1540,462
+2024-04-23,Laptop Pro 15,Electronics,South,7,1200,8400,1680
+2024-05-01,Wireless Mouse,Accessories,East,18,25,450,180
+2024-05-08,Ultra HD Monitor,Electronics,North,8,450,3600,720
+2024-05-15,Mechanical Keyboard,Accessories,South,10,85,850,300
+2024-05-22,Ergonomic Chair,Furniture,West,4,320,1280,256
+2024-06-03,Standing Desk,Furniture,East,3,650,1950,390
+2024-06-10,Noise Cancelling Headphones,Electronics,West,6,280,1680,420
+2024-06-17,USB-C Dock,Accessories,South,11,110,1210,363
+2024-06-24,Laptop Pro 15,Electronics,North,5,1200,6000,1200
+2024-07-02,Desk Lamp LED,Furniture,North,16,45,720,216
+2024-07-09,Wireless Mouse,Accessories,West,22,25,550,220
+2024-07-16,Ultra HD Monitor,Electronics,East,7,450,3150,630
+2024-07-23,Mechanical Keyboard,Accessories,North,9,85,765,270
+2024-08-01,Ergonomic Chair,Furniture,South,6,320,1920,384
+2024-08-08,Standing Desk,Furniture,West,5,650,3250,650
+2024-08-15,Noise Cancelling Headphones,Electronics,East,8,280,2240,560
+2024-08-22,Laptop Pro 15,Electronics,West,8,1200,9600,1920
+2024-09-03,USB-C Dock,Accessories,West,12,110,1320,396
+2024-09-10,Desk Lamp LED,Furniture,East,14,45,630,189
+2024-09-17,Wireless Mouse,Accessories,South,25,25,625,250
+2024-09-24,Ultra HD Monitor,Electronics,West,9,450,4050,810

@@ -1,0 +1,26 @@
+Employee_ID,Name,Department,Age,Experience,Salary,Performance,Satisfaction,Attrition
+E001,Sarah Jenkins,Engineering,34,9,95000,4.2,4.5,No
+E002,Michael Chang,Sales,28,4,62000,3.8,3.7,No
+E003,Jessica Alba,Marketing,31,6,71000,4.0,4.0,No
+E004,David Ross,Engineering,42,16,135000,4.8,4.6,No
+E005,Rachel Green,HR,26,2,48000,3.5,3.2,Yes
+E006,Marcus Brody,Finance,38,12,110000,4.5,4.3,No
+E007,Priya Sharma,Engineering,29,5,78000,4.1,4.2,No
+E008,Kevin Miller,Sales,33,7,74000,3.6,3.0,Yes
+E009,Laura Croft,Marketing,36,10,88000,4.4,4.4,No
+E010,Brian O'Connor,Engineering,25,2,65000,3.9,3.8,No
+E011,Elena Rostova,Finance,45,18,142000,4.9,4.8,No
+E012,Samuel Jackson,Sales,40,14,102000,4.3,4.1,No
+E013,Chloe Bennett,HR,32,7,67000,3.7,3.5,No
+E014,Daniel Craig,Engineering,30,6,82000,4.0,3.9,No
+E015,Grace Hopper,Engineering,39,15,128000,4.7,4.7,No
+E016,Thomas Anderson,Engineering,27,3,70000,3.9,3.6,Yes
+E017,Megan Fox,Marketing,29,5,69000,3.8,3.9,No
+E018,Robert Downey,Finance,47,20,155000,4.9,4.9,No
+E019,Natalie Portman,HR,35,10,83000,4.2,4.3,No
+E020,Chris Evans,Sales,31,6,72000,3.9,3.8,No
+E021,Scarlett Johansson,Engineering,33,8,91000,4.4,4.2,No
+E022,Tom Holland,Sales,24,1,52000,3.4,2.9,Yes
+E023,Zendaya Coleman,Marketing,27,4,66000,4.1,4.4,No
+E024,Mark Ruffalo,Finance,41,15,125000,4.6,4.5,No
+E025,Emma Watson,Engineering,30,6,84000,4.3,4.3,No
